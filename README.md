@@ -1,0 +1,2 @@
+# Fullstackopen
+self-learning project
